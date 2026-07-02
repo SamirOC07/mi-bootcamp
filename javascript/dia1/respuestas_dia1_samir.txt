@@ -1,0 +1,3 @@
+Pregunta 1: Con GitHub gané la capacidad de guardar un historial detallado (commits) de cada versión de mi código, lo que me permite volver atrás si algo falla, a diferencia de Google Drive que sobrescribe los archivos y borra el historial anterior.
+
+Pregunta 2: Lo más confuso del día fue la configuración inicial de la llave SSH en la terminal y entender el orden exacto de los comandos para hacer el merge correcto sin errores de fusión.
